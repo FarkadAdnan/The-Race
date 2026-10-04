@@ -11,5 +11,5 @@ A JavaScript/Three.js
 - Ported to JavaScript with [Claude](https://claude.ai/)
 -  [facebook] (https://www.facebook.com/farkad.adnan.2025/)
 -  [instagram] (https://www.instagram.com/farkadadnan?igshid=YmMyMTA2M2Y%3D)
--  [linkedin] (linkedin.com/in/farkad-adnan-499972121)
+-  [linkedin] (https://linkedin.com/in/farkad-adnan-499972121)
 -  [github] (https://github.com/FarkadAdnan)
